@@ -1,6 +1,6 @@
 {
   "name": "@campuscribz/wavy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "use `~` in require and import calls",
   "main": "index.js",
   "scripts": {
